@@ -1,6 +1,6 @@
 # MRI-Generation
-_Author: Antoine DELPLACE_  
-_Last update: 10/02/2020_
+_Author: Aryan C Rajan_  
+_Last update: 19/04/2022_
 
 This repository corresponds to the source code used for the MRI generation part of my Master Thesis entitled "__Segmentation and Generation of Magnetic Resonance Images by Deep Neural Networks__".
 
